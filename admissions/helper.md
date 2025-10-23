@@ -1,11 +1,11 @@
--# University Admissions Dataset
+# University Admissions Dataset
 
 ### Predicting Applicant Success for a Competitive Graduate Program
 
 This dataset simulates a real-world binary classification problem: determining whether an applicant should be admitted (`+1`) or rejected (`-1`) from a competitive university's graduate program. The data is designed to be **linearly separable**, meaning a model like the one you built can learn a clear boundary between successful and unsuccessful candidates.
 
 ## Dataset Structure
-- **Total Samples:** 200 applicants
+- **Total Samples:** 150 applicants
 - **Features:** 7 distinct attributes for each applicant
 - **Target (Label):** 1 binary outcome (Admitted/Rejected)
 
